@@ -1,8 +1,46 @@
-### Hey there!
+# Hey there! 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasdutraf&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdutraf&layout=compact" />
-</a>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=lucasdutraf.lucasdutraf&left_color=green&right_color=red)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![Linkedin Badge](https://img.shields.io/badge/-lucasdutraf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasdutraf/)](https://www.linkedin.com/in/lucasdutraf/)
+
+Currently Software Developer at [Tembici](https://www.tembici.com.br/pt/).
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Lucas Dutra Ferreira do Nascimento"
+        self.pronouns = ["He/Him"]
+        self.age = 23
+        self.country = "Brazil"
+        self.role = "Software Engineer"
+        self.education = "Software Engineering Bachelor at University of Brasilia"
+        self.language_spoken = ["pt_BR", "en_US"]
+        self.technologies = {
+          "programming_languages": ["Python", "C", "C++", "JavaScript", "Java",]
+          "frameworks": ["Django", "Flask", "FastAPI", "Express.js",]
+          "devOps": ["Docker🐳", "AWS", "GCP",]
+          "databases": ["PostgreSQL", "MySQL", "Redis", "MongoDB",]
+          "misc": ["Pandas", "Matplotlib", "Jupyter-Notebook", "sklearn",]
+        }
+
+    def welcome(self):
+        print("Appreciate your visit, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.welcome()
+```
+
+
+### 📫 Want to schedule a meeting?
+
+Pick a slot if you'd like to meet me and chat about anything - but please describe what we are going to talk about 😅
+
+<a href="https://calendly.com/lucasdutraf/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/31940073/200473170-568e0479-d5ac-490c-a77e-51bca1ab8a97.png"></a>
+
