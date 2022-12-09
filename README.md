@@ -19,7 +19,7 @@ class SoftwareEngineer:
         self.age = 23
         self.country = "Brazil"
         self.role = "Software Engineer"
-        self.education = "Software Engineering Bachelor at University of Brasilia"
+        self.education = "B.Sc. in Software Engineering from University of Brasilia"
         self.language_spoken = ["pt_BR", "en_US"]
         self.technologies = {
           "programming_languages": ["Python", "C", "C++", "JavaScript", "Java",]
