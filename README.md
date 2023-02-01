@@ -16,7 +16,7 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Lucas Dutra Ferreira do Nascimento"
         self.pronouns = ["He/Him"]
-        self.age = 23
+        self.age = 24
         self.country = "Brazil"
         self.role = "Software Engineer"
         self.education = "B.Sc. in Software Engineering from University of Brasilia"
