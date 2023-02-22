@@ -1,6 +1,5 @@
 # Hey there! 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=lucasdutraf.lucasdutraf&left_color=green&right_color=red)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![Linkedin Badge](https://img.shields.io/badge/-lucasdutraf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasdutraf/)](https://www.linkedin.com/in/lucasdutraf/)
 
