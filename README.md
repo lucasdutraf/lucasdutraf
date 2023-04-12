@@ -3,7 +3,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![Linkedin Badge](https://img.shields.io/badge/-lucasdutraf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasdutraf/)](https://www.linkedin.com/in/lucasdutraf/)
 
-Currently Back-end Developer at [Tembici](https://www.tembici.com.br/pt/).
+Currently Software Development Engineer at [Wex](https://www.wexinc.com/en-br/).
 
 ```python
 #!/usr/bin/python
