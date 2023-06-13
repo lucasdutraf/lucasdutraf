@@ -27,6 +27,7 @@ class SoftwareEngineer:
           "databases": ["PostgreSQL", "MySQL", "Redis", "MongoDB",]
           "misc": ["Pandas", "Matplotlib", "Jupyter-Notebook", "sklearn",]
         }
+        self.certifications = ["AWS Cloud Practitioner",]
 
     def welcome(self):
         print("Appreciate your visit, hope you find some of my work interesting.")
