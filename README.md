@@ -13,7 +13,7 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Lucas Dutra Ferreira do Nascimento"
         self.pronouns = ["He/Him"]
-        self.age = 24
+        self.age = 25
         self.country = "Brazil"
         self.role = "Software Engineer"
         self.education = "B.Sc. in Software Engineering from University of Brasilia"
@@ -21,7 +21,7 @@ class SoftwareEngineer:
         self.technologies = {
           "programming_languages": ["Python", "C", "C++", "JavaScript", "Java",]
           "frameworks": ["Django", "Flask", "FastAPI", "Express.js",]
-          "devOps": ["Docker🐳", "AWS", "GCP",]
+          "devOps": ["Docker🐳", "AWS", "GCP", "Terraform", "GitHub Actions"]
           "databases": ["PostgreSQL", "MySQL", "Redis", "MongoDB",]
           "misc": ["Pandas", "Matplotlib", "Jupyter-Notebook", "sklearn",]
         }
