@@ -13,13 +13,13 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Lucas Dutra Ferreira do Nascimento"
         self.pronouns = ["He/Him"]
-        self.age = 25
+        self.age = 26
         self.country = "Brazil"
         self.role = "Software Engineer"
         self.education = "B.Sc. in Software Engineering from University of Brasilia"
         self.language_spoken = ["pt_BR", "en_US"]
         self.technologies = {
-          "programming_languages": ["Python", "C", "C++", "JavaScript", "Java",]
+          "programming_languages": ["Python", "C", "C++", "JavaScript", "Golang", "Java",]
           "frameworks": ["Django", "Flask", "FastAPI", "Express.js",]
           "devOps": ["Docker🐳", "AWS", "GCP", "Terraform", "GitHub Actions"]
           "databases": ["PostgreSQL", "MySQL", "Redis", "MongoDB",]
